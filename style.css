@@ -1,6 +1,6 @@
 .teste{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 .coluna1{
     display: flex;
