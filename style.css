@@ -1,3 +1,7 @@
+.teste{
+    display: flex;
+    flex-direction: column;
+}
 .coluna1{
     display: flex;
     align-items: center;
