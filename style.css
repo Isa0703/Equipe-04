@@ -7,7 +7,7 @@
     content: '';
     position: absolute;
     width: 10px;
-    background-color: #FFC0CB;
+    background-color: #1b08e7;
     top:0;
     bottom: 0;
     left: 50%;
@@ -29,7 +29,7 @@
     width: 30px;
     height: 25px;
     right: -10px;
-    background-color:#FF69B4;
+    background-color:#134ea1;
     top:15px;
     border-radius: 50%;
     z-index: 1;
@@ -49,7 +49,7 @@
 and radius for circular corner*/
 .content{
     padding: 15px 15px 15px 17px;
-    background-color: #FFC0CB;
+    background-color: #4713f5;
     border-radius: 4px;
     text-align: center      ;
 }
