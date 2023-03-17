@@ -2,12 +2,14 @@
     background-color: rgba(255, 255, 255, 0.641);
     font-family: 'Times New Roman', Times, serif;
     max-width: 100%;
+    margin-top: 10px;
 }
 h1{
     text-align: center;
 }
 h2{
     text-align: center;
+
 }
 p{
     font-family: 'Sono', sans-serif;
