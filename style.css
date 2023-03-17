@@ -13,4 +13,5 @@ h2{
 }
 p{
     font-family: 'Sono', sans-serif;
+    display: -moz-stack;
 }
